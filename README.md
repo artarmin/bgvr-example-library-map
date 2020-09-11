@@ -1,8 +1,8 @@
 # Board Games VR - Map - sample project
 
-The purpose of this repository is to provide a starting point for the users of the Board Games VR game who are interested in making mods and custom maps with custom content for the game.
+The purpose of this repository is to provide a starting point for the users of the Board Games VR game who are interested in making mods and custom content.
 
-Download this sample project and modify its content. Follow the most up-to-date guide included with Board Games VR to make your custom map.
+Download this sample project and modify its content. Follow the most up-to-date guide included with Board Games VR to make your custom content.
 
 Use the Steam Workshop uploader tool (included in the game) when you are ready to publish your creation online.
 
